@@ -1,0 +1,2 @@
+Premiere ligne dans le fichier file1.txt
+Deuxiéme ligne dans file1.txt
